@@ -2,4 +2,4 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me: rz@rzago.dev
+- 📫 How to reach me: rz@bit-lab.art
