@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rodrigozago
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me: rz@bit-lab.art
+- 🧑‍🎓 Computer Scientist - Federal University of Goiás (UFG)
+- 🧑‍💻 Front-end Engineer at Valtech Brazil
+- 🌱 Currently studying Next.js and Contentstack
+- 💞️ I’m looking to collaborate on Open Source projects
+- 📫 How to reach me: rodrigozago@me.com
