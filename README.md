@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigozago
 - 🧑‍🎓 Computer Scientist - Federal University of Goiás (UFG)
 - 🧑‍💻 Front-end Engineer at Valtech Brazil
-- 🌱 Currently studying Next.js and Contentstack
+- 🌱 Currently studying Claude AI, Spec-kit, TDD
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: rodrigozago@me.com
